@@ -1,2 +1,2 @@
 # udacity
-Dedicate Repository for Udacity Nano-Degree 
+Dedicated Repository for Udacity Nano-Degree 
